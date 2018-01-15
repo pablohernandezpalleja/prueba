@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="phernandez.tfg.eps.uam.es.plandiario_v4.MainActivity">
+
+    <item
+        android:id="@+id/information"
+        android:orderInCategory="101"
+        android:title="informacion"
+        android:icon="@android:drawable/ic_menu_help"
+        app:showAsAction="always"/>
+</menu>

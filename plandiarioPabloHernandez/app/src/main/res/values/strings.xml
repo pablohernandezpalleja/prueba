@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">plandiario</string>
+    <string name="agenda">agenda</string>
+    <string name="categorias">categorias</string>
+    <string name="fallo_password">No coincide la contraseña</string>
+    <string name="fallo_password_empty">Faltan digitos contraseña</string>
+    <string name="intro_password">Introduce la contraseña: </string>
+    <string name="pref_titletop_edicion">Ajustes de edición</string>
+    <string name="pref_title_edicion">Modo edicion</string>
+    <string name="pref_titletop_agenda">Ajustes de visualizacion agenda</string>
+    <string name="pref_title_listagenda">Modo lista</string>
+    <string name="pref_title_checkboxagenda">Mostrar checkbox</string>
+    <string name="pref_summary_checkboxagenda">Activa o desactiva la visualizacion del checkbox para tarea completada</string>
+    <string name="pref_titletop_categorias">Ajustes de visualizacion categorias</string>
+    <string name="pref_title_categorias">Filtro de categoria</string>
+</resources>
